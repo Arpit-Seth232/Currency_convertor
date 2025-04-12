@@ -27,5 +27,16 @@ A responsive web application built with React and Tailwind CSS that allows users
 ```bash
 git clone https://github.com/Arpit-Seth232/Currency_convertor.git
 cd Currency_convertor
+```
+
+## 2. Install Dependencies
+
+```bash
 npm install
+```
+
+## 3. Run the app locally
+
+```bash
 npm run dev
+```
